@@ -1,5 +1,5 @@
 server:
-    port: 44444
+    port: 22222
 
 sample:
     text: Test
